@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <DataRefreshEntities>
+   <application>Glovia</application>
+   <region>DAO</region>
+   <src_env>Production</src_env>
+   <dest_env>DIT</dest_env>
+   <item>210-ARIO</item>
+   <ccn>DAO</ccn>
+  </DataRefreshEntities>
